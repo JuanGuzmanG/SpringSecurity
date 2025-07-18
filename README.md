@@ -4,23 +4,23 @@ proyecto del uso de spring security para un sistema de autenticacion con roles.
 
 ---
 
-## Herramientas usadas: 
+## ⚙ Herramientas usadas: 
  - DataBase: **PostgreSQL**
  - Herramienta de Pruebas: **PostMan**
 
 ---
-## Diagrama Entidad-Relacion
+## 📚 Diagrama Entidad-Relacion
 
 ![PostgreSQL](src/main/resources/static/ERD.png)
 
 ---
 
-## Postman
+## 🧰 Postman
 
 ![postman](src/main/resources/static/postman.PNG)
 
 ---
 
-## Consultas
+## 📖 Consultas
 
 ![consulta](src/main/resources/static/postgreSQL.PNG)
