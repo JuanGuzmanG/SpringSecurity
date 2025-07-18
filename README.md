@@ -11,16 +11,16 @@ proyecto del uso de spring security para un sistema de autenticacion con roles.
 ---
 ## Diagrama Entidad-Relacion
 
-![PostgreSQL](ERD.png)
+![PostgreSQL](src/main/resources/static/ERD.png)
 
 ---
 
 ## Postman
 
-![postman](postman.PNG)
+![postman](src/main/resources/static/postman.PNG)
 
 ---
 
 ## Consultas
 
-![consulta](postgreSQL.PNG)
+![consulta](src/main/resources/static/postgreSQL.PNG)
