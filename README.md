@@ -1,6 +1,6 @@
 # 🛡 Spring Security 
 
-proyecto del uso de spring security para un sistema de autenticacion con roles.
+Ejemplo practico de implementacion de Spring Security y visualizar la gestion de usuarios, roles y permisos, asi como el uso de BCrypt para contraseñas seguras, providers y filtros de seguridad personalizados.
 
 ---
 
